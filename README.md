@@ -36,20 +36,9 @@ Download the raw data of [NTU_RGB+D](https://github.com/shahroudy/NTURGB-D) and 
 ## Training and Testing
 Please refer to the bash scripts
 
-## Pretrained Models
-NTU-60 and NTU-120: [pretrained_models](https://rec.ustc.edu.cn/share/5f6a5ee0-01dd-11ed-b9ae-8301ca6d3d37)
-
 ## Citation
 If you find this work useful for your research, please consider citing our work:
-```
-@article{Xie_2025_MMCV,
-    title={Multi-Mode Cross-View Mutual Learning for Enhanced Self-Supervised 3D Action Recognition},
-    author={Qianbin Xie, Xun Gong, Xinyun Zou},
-    journal={The Visual Computer},
-    year={2025}
-}
-```
-
+***
 ## Acknowledgment
 The framework of our code is based on [CMD](https://github.com/maoyunyao/CMD).
 
