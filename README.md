@@ -3,7 +3,7 @@ Qianbin Xie, Xun Gong, Xinyun Zou
 
 This repository includes Python (PyTorch) implementation of the MMCV.
 
-![](./images/mmcv.png)
+![](https://github.com/xievito/MMCV/blob/main/images/MMCV.png)
 
 ## Abstract
 Self-supervised learning has emerged as a promising approach for 3D action recognition, addressing challenges associated with unlabeled data. 
@@ -38,7 +38,5 @@ Please refer to the bash scripts
 
 ## Citation
 If you find this work useful for your research, please consider citing our work:
-***
-## Acknowledgment
-The framework of our code is based on [CMD](https://github.com/maoyunyao/CMD).
+...
 
